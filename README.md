@@ -15,7 +15,7 @@ Please provide the source code, tests, documentations and any assumptions you ha
 made.
 
 --------------------------------------------
-The code has a requirements.txt based on which you can install packages required, in this case just flask. I added a tests folder, just use pytest in the CLI to check them. Lastly, I added the virtual environment that I have used in the same folder (not necessarily best practice, but I thought it is easier to check the results if it is in the same place).
+The code has a requirements.txt based on which you can install packages required, in this case just flask. I added a tests folder, just use pytest in the CLI to check them.
 
 To run the application run in your terminal export FLASK_APP=app.py, go into the source code folder and type flask run.
 
